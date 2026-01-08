@@ -1,6 +1,7 @@
 package h2;
 
 public class Spielbrett {
+	
 
     private Feld[][] brett;
     private int dim;

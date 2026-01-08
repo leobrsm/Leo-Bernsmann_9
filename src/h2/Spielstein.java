@@ -1,6 +1,7 @@
 package h2;
 
 public class Spielstein {
+	
 
     private int currentRow;
     private int currentCol;

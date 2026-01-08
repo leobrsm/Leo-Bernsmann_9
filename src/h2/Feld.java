@@ -1,6 +1,7 @@
 package h2;
 
 public class Feld {
+	
 
     private boolean boese;
     private char direction; // 'U', 'D', 'L', 'R'
